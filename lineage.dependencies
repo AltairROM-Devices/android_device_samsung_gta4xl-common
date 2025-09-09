@@ -1,50 +1,80 @@
 [
     {
+        "remote": "lineage",
         "repository": "android_device_samsung_slsi_sepolicy",
-        "target_path": "device/samsung_slsi/sepolicy"
+        "target_path": "device/samsung_slsi/sepolicy",
+        "revision": "lineage-23.0"
     },
     {
+        "remote": "lineage",
         "repository": "android_hardware_samsung",
-        "target_path": "hardware/samsung"
+        "target_path": "hardware/samsung",
+        "revision": "lineage-23.0"
     },
     {
+        "remote": "lineage",
         "repository": "android_hardware_samsung_slsi_libbt",
-        "target_path": "hardware/samsung_slsi/libbt"
+        "target_path": "hardware/samsung_slsi/libbt",
+        "revision": "lineage-23.0"
     },
     {
+        "remote": "lineage",
         "repository": "android_hardware_samsung_slsi-linaro_config",
-        "target_path": "hardware/samsung_slsi-linaro/config"
+        "target_path": "hardware/samsung_slsi-linaro/config",
+        "revision": "lineage-23.0"
     },
     {
+        "remote": "lineage",
         "repository": "android_hardware_samsung_slsi-linaro_exynos",
-        "target_path": "hardware/samsung_slsi-linaro/exynos"
+        "target_path": "hardware/samsung_slsi-linaro/exynos",
+        "revision": "lineage-23.0"
     },
     {
+        "remote": "lineage",
         "repository": "android_hardware_samsung_slsi-linaro_exynos5",
-        "target_path": "hardware/samsung_slsi-linaro/exynos5"
+        "target_path": "hardware/samsung_slsi-linaro/exynos5",
+        "revision": "lineage-23.0"
     },
     {
+        "remote": "lineage",
         "repository": "android_hardware_samsung_slsi-linaro_graphics",
-        "target_path": "hardware/samsung_slsi-linaro/graphics"
+        "target_path": "hardware/samsung_slsi-linaro/graphics",
+        "revision": "lineage-23.0"
     },
     {
+        "remote": "lineage",
         "repository": "android_hardware_samsung_slsi-linaro_interfaces",
-        "target_path": "hardware/samsung_slsi-linaro/interfaces"
+        "target_path": "hardware/samsung_slsi-linaro/interfaces",
+        "revision": "lineage-23.0"
     },
     {
+        "remote": "lineage",
         "repository": "android_hardware_samsung_slsi-linaro_openmax",
-        "target_path": "hardware/samsung_slsi-linaro/openmax"
+        "target_path": "hardware/samsung_slsi-linaro/openmax",
+        "revision": "lineage-23.0"
     },
     {
+        "remote": "lineage",
         "repository": "android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
-        "target_path": "hardware/samsung_slsi/scsc_wifibt/wifi_hal"
+        "target_path": "hardware/samsung_slsi/scsc_wifibt/wifi_hal",
+        "revision": "lineage-23.0"
     },
     {
+        "remote": "lineage",
         "repository": "android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
-        "target_path": "hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib"
+        "target_path": "hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib",
+        "revision": "lineage-23.0"
     },
     {
+        "remote": "lineage",
         "repository": "android_kernel_samsung_gta4xl",
-        "target_path": "kernel/samsung/gta4xl"
+        "target_path": "kernel/samsung/gta4xl",
+        "revision": "lineage-23.0"
+    },
+    {
+        "remote": "tm",
+        "repository": "proprietary_vendor_samsung_gta4xl-common",
+        "target_path": "vendor/samsung/gta4xl-common",
+        "revision": "lineage-23.0"
     }
 ]
